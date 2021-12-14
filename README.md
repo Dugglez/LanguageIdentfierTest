@@ -6,3 +6,5 @@ You can run this by downloading the Python and Text files to your computer, then
 python main.py
 
 This brings you to the menu, where you choose your difficulty and your game length.
+
+Note: Most languages that use non-Latin characters print as a series of boxes in the command line, so running this in an IDE fixes this. (In PyCharm at the very least.)
